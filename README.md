@@ -66,7 +66,7 @@ This workshop is part of the Digital Earth Pacific initiative and wwill be prese
 
 ## Questions or Feedback
 
-For questions or feedback, feel free to reach out to the authors:
+For questions or feedback, feel free to reach out to the authors of this readme.txt:
 
 - Philippine Laroche at philippinel@spc.int  
 - Kamsin Raju at kamsinr@spc.int
