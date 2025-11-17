@@ -16,6 +16,9 @@ First, during the workshop, we’ll collect ground-truth landcover data in the f
 
    - Open the QField app on your mobile device
    - Download the prepared project (either from QFieldCloud or paste the sync package)
+      Qfield Account : 
+         Username : digitalearthpacific
+         Password : landcover2025
    - Open the project and add new points using the attribute form you defined
 
 
