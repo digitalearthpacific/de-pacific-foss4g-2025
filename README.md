@@ -10,6 +10,18 @@ This Jupyter Notebook demonstrates a complete workflow for integrating QField-co
 
 ## Workflow Summary
 
+### Field Data Collection with QField
+
+First, during the workshop, we’ll collect ground-truth landcover data in the field using QField, an open-source mobile GIS app that seamlessly integrates with QGIS. We’ll venture into the field ie, around Auckland's Albert Park to collect labelled landcover samples. At each point, select landcover type, snap a photo, add comments, and save
+
+   - Open the QField app on your mobile device
+   - Download the prepared project (either from QFieldCloud or paste the sync package)
+   - Open the project and add new points using the attribute form you defined
+
+
+After data collection, sync it back to your QGIS desktop for model training. This workflow ensures your field-collected data feeds directly into the model training pipeline demonstrated in the notebook.
+
+### Workshop Notebook 
 The notebook is structured into **three main parts**:
 
 1. **Data Preparation**
