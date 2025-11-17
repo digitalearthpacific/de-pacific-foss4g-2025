@@ -15,7 +15,7 @@ This Jupyter Notebook demonstrates a complete workflow for integrating QField-co
 First, during the workshop, we’ll collect ground-truth landcover data in the field using QField, an open-source mobile GIS app that seamlessly integrates with QGIS. We’ll venture into the field ie, around Auckland's Albert Park to collect labelled landcover samples. At each point, select landcover type, snap a photo, add comments, and save
 
    - Open the QField app on your mobile device
-   - Download the prepared project (either from QFieldCloud or paste the sync package)
+   - Download the prepared project (either from QFieldCloud or paste the sync package)  
       Qfield Account :  
          Username : digitalearthpacific  
          Password : landcover2025  
