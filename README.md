@@ -68,6 +68,14 @@ pip install -r requirements.txt
 - Apply machine learning for landcover classification
 - Explore cloud-native geospatial workflows using STAC and Dask
 
+## Workshop requirements
+- Please download / setup the following if you have not already:
+- QGIS stable version 3.4. 
+- QField for QGIS app on mobile device
+   - Username digitalearthpacific
+   - password: landcover2025
+- Create a Digital Earth Pacific Analytical Hub user account 
+
 ## License
 
 This project is released under **CC0 1.0 Universal** (Public Domain Dedication).
